@@ -6,7 +6,7 @@
 | NIM | [312510045] |
 | Kelas | [I253A] |
 | Mata Kuliah | Pemrograman Web |
-| Dosen Pengampu | [Nama Dosen] |
+| Dosen Pengampu | [Agung Nugroho, S.Kom., M.Komn] |
 | Praktikum | Praktikum 6 – JavaScript DOM dan Event Handling |
 
 ---
