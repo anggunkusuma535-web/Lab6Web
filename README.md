@@ -106,7 +106,8 @@ Metode yang digunakan adalah:
 
 Hasilnya, judul dan paragraf pada halaman web dapat diubah secara langsung menggunakan JavaScript.
 
-**Screenshot:** `Screenshot/01.png`
+**Screenshot:** 
+![Screenshot Latihan 1](Screenshot/01.png)
 
 ### C. Latihan 2 – Event Click
 
@@ -114,7 +115,8 @@ Pada latihan kedua diterapkan event `click` untuk menjalankan suatu perintah ket
 
 JavaScript menggunakan `addEventListener()` untuk mendeteksi klik pada tombol. Ketika tombol ditekan, teks pada paragraf akan berubah dan menampilkan waktu saat tombol diklik.
 
-**Screenshot:** `Screenshot/02.png`
+**Screenshot:** 
+![Screenshot Latihan 1](Screenshot/02.png)
 
 ### D. Latihan 3 – Mengubah Gaya CSS
 
@@ -124,8 +126,9 @@ Metode `classList.toggle()` digunakan untuk menambahkan atau menghapus class CSS
 
 Hasilnya, paragraf dapat berubah warna, memiliki latar belakang, garis tepi, dan ukuran teks yang lebih besar.
 
-**Screenshot:** `Screenshot/03.CSS-01.png`
-`Screenshot/03.CSS-02.png`
+**Screenshot:** 
+![Screenshot Latihan 1](Screenshot/03.CSS-01.png)
+![Screenshot Latihan 1](Screenshot/03.CSS-02.png)
 
 ### E. Latihan 4 – Penghitung Karakter
 
@@ -133,7 +136,8 @@ Pada latihan keempat dibuat fitur penghitung jumlah karakter yang dimasukkan pen
 
 Event `input` digunakan untuk mendeteksi perubahan pada kolom teks. Jumlah karakter akan diperbarui secara langsung ketika pengguna mengetik atau menghapus teks.
 
-**Screenshot:** `Screenshot/04.png`
+**Screenshot:** 
+![Screenshot Latihan 1](Screenshot/04.png)
 
 ### F. Latihan 5 – Validasi Formulir
 
@@ -149,7 +153,7 @@ Validasi dilakukan menggunakan JavaScript dengan beberapa ketentuan:
 Event `submit` digunakan untuk menjalankan proses validasi ketika tombol daftar ditekan. Metode `preventDefault()` digunakan agar halaman tidak melakukan reload secara otomatis.
 
 **Screenshot:**
-- `Screenshot/05.png`
+![Screenshot Latihan 1](Screenshot/05.png)
 
 ### G. Latihan 6 – Daftar Tugas (To-Do List)
 
@@ -165,7 +169,7 @@ Metode yang digunakan antara lain:
 Hasilnya, pengguna dapat menambahkan tugas dan mengubah tampilannya menjadi selesai atau belum selesai.
 
 **Screenshot:**
-- `Screenshot/06.png`
+![Screenshot Latihan 1](Screenshot/06.png)
 
 ### H. Mini Project – Formulir Pendaftaran Workshop
 
@@ -185,7 +189,7 @@ Dibuat formulir pendaftaran workshop yang memiliki beberapa fitur, yaitu:
 Event yang diterapkan adalah `input`, `change`, `submit`, dan `reset`.
 
 **Screenshot:**
-- `Screenshot/07.Mini-Project.png`
+![Screenshot Latihan 1](Screenshot/07.Mini-Project.png)
 
 ### I. Eksperimen Mandiri
 
@@ -195,13 +199,15 @@ Eksperimen mandiri dilakukan untuk mengembangkan dan memahami lebih lanjut pengg
 
 Menambahkan tombol Hapus pada setiap tugas. Metode `remove()` digunakan untuk menghapus elemen tugas yang dipilih tanpa menghapus tugas lainnya.
 
-Screenshot: `Screenshot/08.Eksperimen-Mandiri-01.png`
+**Screenshot:**
+![Screenshot Latihan 1](Screenshot/08.Eksperimen-Mandiri-01.png)
 
 **2. Mengubah validasi nama minimal 3 karakter**
 
 Mengubah ketentuan validasi nama pada Latihan 5. Nama harus memiliki minimal 3 karakter agar dapat melewati pemeriksaan.
 
-Screenshot: `Screenshot/09.Eksperimen-Mandiri-02.png`
+**Screenshot:**
+![Screenshot Latihan 1](Screenshot/09.Eksperimen-Mandiri-02.png)
 
 **3. Menggunakan event change pada pilihan sesi workshop**
 
@@ -209,15 +215,16 @@ Menguji event `change` pada pilihan sesi workshop. Ketika pengguna memilih sesi 
 
 Fitur ini menggunakan kode yang sudah diterapkan pada Mini Project, sehingga tidak diperlukan penambahan fitur baru.
 
-Screenshot: `Screenshot/10.Eksperimen-Mandiri-03.png`
+**Screenshot:**
+![Screenshot Latihan 1](Screenshot/10.Eksperimen-Mandiri-03.png)
 
 **4. Menampilkan dan menyembunyikan paragraf**
 
 Membuat tombol untuk menyembunyikan dan menampilkan kembali paragraf menggunakan `classList.toggle()` dan CSS `display: none`.
 
-Screenshot:
-- `Screenshot/11.Eksperimen-Mandiri-04-1.png`
-- `Screenshot/12.Eksperimen-Mandiri-04-2.png`
+**Screenshot:**
+- ![Screenshot Latihan 1](Screenshot/11.Eksperimen-Mandiri-04-1.png)
+- ![Screenshot Latihan 1](Screenshot/12.Eksperimen-Mandiri-04-2.png)
 
 **5. Memahami pengaruh posisi script dan atribut defer**
 
@@ -225,9 +232,9 @@ Melakukan pengujian dengan menghapus atribut `defer` dari pemanggilan file JavaS
 
 Setelah pengujian, atribut `defer` dikembalikan agar seluruh fitur dapat berjalan dengan normal.
 
-Screenshot:
-- `Screenshot/13.Eksperimen-Mandiri-05-1.png`
-- `Screenshot/14.Eksperimen-Mandiri-05-2.png`
+**Screenshot:**
+-![Screenshot Latihan 1](Screenshot/13.Eksperimen-Mandiri-05-1.png)
+-![Screenshot Latihan 1](Screenshot/14.Eksperimen-Mandiri-05-2.png)
 
 ## 5. Jawaban Evaluasi
 
