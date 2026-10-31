@@ -1,0 +1,177 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #173f75;
+}
+
+p {
+    font-size: 16px;
+}
+
+button {
+    background-color: #3478c8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #173f75;
+}
+
+.highlight {
+    color: #173f75;
+    background-color: #e6f1ff;
+    border-left: 4px solid #3478c8;
+    padding: 12px;
+}
+
+.teks-besar {
+    font-size: 1.4rem;
+}
+
+#namaInput {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#jumlahKarakter {
+    color: #3478c8;
+    font-weight: bold;
+}
+
+/* LATIHAN 5 - Validasi Formulir */
+#formPendaftaran input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#formPendaftaran button {
+    background-color: #3478c8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#pesanForm {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#inputTugas {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#daftarTugas {
+    margin-top: 15px;
+    padding-left: 25px;
+}
+
+#daftarTugas li {
+    margin-bottom: 10px;
+}
+
+#daftarTugas button {
+    margin-left: 10px;
+    padding: 6px 10px;
+    background-color: #3478c8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.selesai span {
+    text-decoration: line-through;
+    color: #687386;
+}
+
+/* MINI PROJECT - Formulir Pendaftaran Workshop */
+
+.workshop {
+    max-width: 500px;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.workshop h2 {
+    color: #173f75;
+}
+
+.workshop label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.workshop input,
+.workshop select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.workshop button {
+    margin-top: 10px;
+    margin-right: 5px;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3478c8;
+    color: white;
+    cursor: pointer;
+}
+
+.workshop button:hover {
+    background-color: #173f75;
+}
+
+#hitungNama {
+    color: #3478c8;
+    font-weight: bold;
+}
+
+#ringkasanSesi {
+    color: #3478c8;
+}
+
+#pesanWorkshop {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+/* EKSPERIMEN 1 - Tombol Hapus */
+#daftarTugas button:last-child {
+    background-color: #dc3545;
+}
+
+#daftarTugas button:last-child:hover {
+    background-color: #a71d2a;
+}
+
+.sembunyi {
+    display: none;
+}
